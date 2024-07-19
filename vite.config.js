@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react-swc";
 // https://vitejs.dev/config/
 export default defineConfig({
     plugins: [react()],
-    base: "/react_context/",
+    base: "/react_context_p3m/",
 });
